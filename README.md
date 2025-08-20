@@ -1,5 +1,5 @@
 Vehicle Emissions Analysis
-This project focuses on analyzing vehicle emissions data using various machine learning techniques. The dataset used for analysis contains information about vehicle emissions, including engine size, CO2 emissions, transmission type, smog level, and fuel consumption.
+This project focuses on analyzing vehicle emissions data using various machine learning techniques. The dataset used for analysis contains information about vehicle emissions, including engine size, CO2 emissions, transmission type, smog level, and fuel consumption
 
 Overview
 The main objectives of this project include:
